@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>weather-api</name>
+	<name>weather-apis</name>
 	<description>weather-api</description>
 
 	<parent>
